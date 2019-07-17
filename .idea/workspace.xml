@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f0bc47f-23f1-471e-a0c3-821e4d3b66f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../OOP" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/.idea/jsLinters/jshint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/.idea/shoereact.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/blocks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/css-rtl/app-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/css-rtl/custom-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/css-rtl/footers/footer-v4-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/css-rtl/headers/header-v5-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/css-rtl/pages/log-reg-v3-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/css-rtl/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/css-rtl/shop.blocks-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/css-rtl/shop.plugins-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/css-rtl/shop.style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/footers/footer-v4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/headers/header-v5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/pages/log-reg-v3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/plugins/style-switcher.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/shop.style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/aqua.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/brown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/dark-blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/dark-red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/light-green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/css/theme-colors/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/28-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/29-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/30-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/blog/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/breadcrumbs-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/clients/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/collection-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/colors/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/colors/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/colors/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/colors/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/colors/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/colors/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/colors/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/others/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/sponsors/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/sponsors/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/sponsors/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/sponsors/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/team/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/License2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/thumb/License3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/img/twitter-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/forms/page_contact_form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/forms/page_login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/forms/page_registration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/forms/product-quantity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/forms/review.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/circles-master.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/master-slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/masterslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/mouse-wheel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/owl-carousel-rtl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/owl-carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/placeholder-IE-fixes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/revolution-slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/stepWizard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/style-switcher-rtl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/plugins/style-switcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/js/shop.app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/back-to-top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/css/bootstrap-rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/spinning.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_spinning.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery-steps/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery-steps/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery-steps/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery-steps/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery-steps/build/jquery.steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery-steps/build/jquery.steps.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery-steps/css/custom-jquery.steps-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery-steps/css/custom-jquery.steps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery-steps/css/jquery.steps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery.mixitup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery.parallax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery/jquery-migrate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery/jquery-migrate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/fonts/Simple-Line-Icons.dev.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/fonts/Simple-Line-Icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/fonts/Simple-Line-Icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/fonts/Simple-Line-Icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/fonts/Simple-Line-Icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/icons-lte-ie7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/line-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/line-icons/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/basic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/crop.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/fade.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/fav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/flow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/mask.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/ms-logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/play.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/rate-master-slider.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/scale.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/screenshots/embed-url.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/screenshots/get-embed-code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/b-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/b-2-r.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/b-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/cont.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/default.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/l-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/l-3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/l-4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/l-5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/l-6-r.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/l-6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/skins/metro.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/toggle-arrow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/images/wave.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/js/averta.csstweener.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/js/jquery-1.8.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/js/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/js/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/assets/js/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/bootstrap/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/bootstrap/css/bootstrap-responsive.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/bootstrap/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/bootstrap/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shAutoloader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushAS3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushAppleScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushBash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushCSharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushColdFusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushCpp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushCss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushDelphi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushDiff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushErlang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushGroovy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushJScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushJava.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushJavaFX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushPerl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushPhp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushPlain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushPowerShell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushPython.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushRuby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushSass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushScala.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushSql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushVb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shBrushXml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shCore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/scripts/shLegacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shCore.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shCoreDefault.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shCoreDjango.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shCoreEclipse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shCoreEmacs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shCoreFadeToGrey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shCoreMDUltra.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shCoreMidnight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shCoreRDark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shThemeDefault.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shThemeDjango.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shThemeEclipse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shThemeEmacs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shThemeFadeToGrey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shThemeMDUltra.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shThemeMidnight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/documentation/syntax-highlighter/styles/shThemeRDark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/masterslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/masterslider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/masterslider.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/black-1/black-skin-1-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/black-1/black-skin-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/black-1/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/black-2/black-skin-2-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/black-2/black-skin-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/black-2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/contrast/contrast-skin-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/contrast/contrast-skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/contrast/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/default/light-skin-1-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/default/light-skin-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/default/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-2/light-skin-2-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-2/light-skin-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-3/light-skin-3-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-3/light-skin-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-3/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-4/light-skin-4-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-4/light-skin-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-4/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-5/light-skin-5-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-5/light-skin-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-5/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-6/light-skin-6-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-6/light-skin-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/light-6/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/metro/metro-skin-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/metro/metro-skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/skins/metro/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/grab.cur" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/grab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/grabbing.cur" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/grabbing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/loading-1-dark.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/loading-1-light.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/loading-2-dark.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/loading-2-light.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/masterslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/master-slider/masterslider/style/video-close-btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/modernizr.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/noUiSlider/jquery.nouislider.all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/noUiSlider/jquery.nouislider.all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/noUiSlider/jquery.nouislider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/noUiSlider/jquery.nouislider.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/noUiSlider/jquery.nouislider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/noUiSlider/jquery.nouislider.pips.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/css/bootstrapTheme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/css/common_classes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/ico/apple-touch-icon-114-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/ico/apple-touch-icon-144-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/ico/apple-touch-icon-57-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/ico/apple-touch-icon-72-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/ico/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/AjaxLoader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/css3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/feather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/grab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/modern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/multi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/responsive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/tons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/touch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/demo-slides/zombie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/glyphicons-halflings-green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/img/owl-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/js/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/js/bootstrap-collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/js/bootstrap-tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/js/bootstrap-transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/js/google-code-prettify/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/js/google-code-prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/js/google-code-prettify/run_prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/assets/js/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/changelog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/fullimage1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/fullimage2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/fullimage3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/fullimage4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/fullimage5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/fullimage6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/fullimage7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/owl1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/owl2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/owl3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/owl4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/owl5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/owl6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/owl7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/assets/owl8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/autoHeight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/click.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/customJson.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/itemsCustom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/json.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/json/customData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/json/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/lazyLoad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/manipulations.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/navOnTop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/navOnTop2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/one.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/owlStatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/progressBar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/randomOrder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/scaleup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/sync.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/demos/transitions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/owl-carousel/AjaxLoader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/owl-carousel/grabbing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/owl-carousel/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/owl-carousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/owl-carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel/owl-carousel/owl.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel2/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel2/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/owl-carousel2/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/respond.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/css/documenter_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/images/image_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/images/image_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_009_magic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_042_group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_079_podium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_082_roundabout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_155_show_thumbnails.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_163_iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_214_resize_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_266_book_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/js/bootstrap-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/js/google-code-prettify/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/js/google-code-prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/js/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/js/jquery.scrollTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/assets/json.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/css/documenter_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/css/img/info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/css/img/pre_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/css/img/warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/css/shDocumenter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/js/jquery.1.6.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/js/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/js/jquery.scrollTo-1.4.2-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/js/shBrushCss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/js/shBrushJScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/js/shBrushXml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/documentation/js/shCore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/00.Editor-Captions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/01.Editor-Transitions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/assets/prebg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/assets/trans_tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/assets/trans_tile2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/assets/transparent.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/assets/transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/assets/transtiled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/type/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/type/fontello/fontello-social.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/type/fontello/fontello-social.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/type/fontello/fontello-social.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/type/fontello/fontello-social.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/type/fontello/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/type/fontello/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/type/fontello/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/editor/editor/type/fontello/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/arrow_large_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/arrow_large_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/arrow_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/arrow_left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/arrow_right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/arrowleft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/arrowright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/arrows.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/black50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/boxed_bgtile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/bullet_boxed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/bullets.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/bullets2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/coloredbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/grain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/gridtile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/gridtile_3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/gridtile_3x3_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/gridtile_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/large_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/large_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/loader2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/navigdots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/navigdots_bgtile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/shadow1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/shadow2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/shadow3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/small_arrows.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/small_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/small_left_boxed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/small_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/small_right_boxed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/timer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/timerdot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/transparent.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/assets/white50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/css/settings-ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/css/settings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/font/revicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/font/revicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/font/revicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/font/revicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/images/decor_inside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/images/decor_inside_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/images/decor_testimonial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/images/gradient/g30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/images/gradient/g40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.enablelog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/scrollbar/.csslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/scrollbar/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/scrollbar/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/scrollbar/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/scrollbar/css/jquery.mCustomScrollbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/scrollbar/js/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/scrollbar/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/documentation/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/documentation/img/thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/documentation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/documentation/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/captcha/button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/captcha/font/anorexia.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/captcha/image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/captcha/process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/css/sky-forms-ie8-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/css/sky-forms-ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/css/sky-forms-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/demo-comment-process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/demo-comment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/demo-contacts-process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/demo-contacts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/demo-login-process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/demo-order-process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/demo-review-process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/ext-captcha.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/icons/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/icons/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/icons/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/icons/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/icons/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/js/jquery.modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/sky-forms-pro/skyforms/js/sky-forms-ie8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/assets/plugins/smoothScroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/shop-ui-add-to-cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/shop-ui-filter-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/shop-ui-filter-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/shop-ui-inner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/shop-ui-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/public/shop-ui-register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/RouterProtect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Auth/FormLogin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Auth/FormRegist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Auth/Topbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/CollectionBanner/CollectionBanner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Footer/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Illustrationv1/Illustrationv1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Illustrationv2/Illustrationv2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Illustrationv3/Illustrationv3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Illustrationv4/Illustrationv4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Illustrationv5/Illustrationv5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Product/Productdetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/ProductService/ProductService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Slider/Slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/Sponsors/Sponsors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/components/TwitterBlock/TwitterBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoereact/src/serviceWorker.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login_register_modal.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/login-register.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="936" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f0bc47f-23f1-471e-a0c3-821e4d3b66f8" name="Default Changelist" comment="" />
+      <created>1563352871728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563352871728</updated>
+      <workItem from="1563352872834" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1871" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121753246" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/login_register_modal.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/login-register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
